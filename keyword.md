@@ -27,26 +27,17 @@
 -	dns srv record  
 -	tls  
 - stateless proxy, stateful proxy
-
-**SipServlet**  
-- SIPTransactionStack
--
+- media gateway, soft switch
+- DTMF
+- TLS
 
 꼭 봐야 할 부분들
 =================
-
 -	RFC3261
-
 -	sdp
-
 -	ringback tone은 나중에 구현할 것.
-
 -	183 progress에 대해서 알아두기
-
 -	ch7은 안쓰지만 뭔지는 알아두기.
-
 -	ch 8,9는 이해하고
-
 -	ch 9.3은 꼭 보기.
-
 -	ch10 확실하기 보기.
