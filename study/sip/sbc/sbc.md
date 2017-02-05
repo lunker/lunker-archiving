@@ -2,8 +2,6 @@
 - Session Border Controller  
 -
 
-
-
 1. 소스 내려받음
 2. Intellij 에서 import as maven project
 3. restcomm-jboss 7 으로 사용

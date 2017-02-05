@@ -30,8 +30,11 @@
 - media gateway, soft switch
 - DTMF
 - TLS
+- sip trunk ?
+- redirect server  
 
-꼭 봐야 할 부분들
+
+  꼭 봐야 할 부분들
 =================
 -	RFC3261
 -	sdp
