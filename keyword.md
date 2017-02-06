@@ -30,6 +30,10 @@
 - media gateway, soft switch
 - DTMF
 - TLS
+- CDR (Call Detail Records)  
+- rfc 5863 + session border controller
+- call stateful 
+
 
 꼭 봐야 할 부분들
 =================
