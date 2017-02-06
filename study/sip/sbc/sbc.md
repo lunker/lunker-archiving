@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SBC (Session Border Controller)
 
 # 기능 7가지  
@@ -51,3 +52,34 @@
 **@관련 이슈**
 - SBC가 single point 이기에 가지는 문제점들  
 - UA는 SBC가 수정한 message과 MITM의 구별이 어려움.
+=======
+# SBC
+- Session Border Controller  
+-
+
+1. 소스 내려받음
+2. Intellij 에서 import as maven project
+3. restcomm-jboss 7 으로 사용
+4. 기본적인 설정.
+
+
+
+
+#### Configuration  
+
+-
+
+
+
+**IP Phone**  
+- proxy : sbc의 ip address(10.0.1.69)
+- ip phone에서는 일단 sbc로 바로 가야 하므로.
+
+
+**SBC**  
+-
+
+
+**Proxy**  
+-
+>>>>>>> a436257459d3ea983775ef942fd4fc96cd6dbaee

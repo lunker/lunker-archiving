@@ -30,12 +30,18 @@
 - media gateway, soft switch
 - DTMF
 - TLS
+<<<<<<< HEAD
 - CDR (Call Detail Records)  
 - rfc 5863 + session border controller
 - call stateful 
 
+=======
+- sip trunk ?
+- redirect server  
+>>>>>>> a436257459d3ea983775ef942fd4fc96cd6dbaee
 
-꼭 봐야 할 부분들
+
+  꼭 봐야 할 부분들
 =================
 -	RFC3261
 -	sdp
