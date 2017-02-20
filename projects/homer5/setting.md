@@ -12,7 +12,7 @@
 - yum install php5-mysql
 - yum install mysql-client mysql-devel
 
-3) kamilio
+3) kamilio ::: 모니터링 서버에 설치
 - src/makefile에서 install_bin의 install_touch를 주석처리 + manually touch ~!
 - start : sudo /usr/local/sbin/kamailio start
 
@@ -20,11 +20,10 @@
 - homer api : github에서 내려받은 소스 중 ${GIT}/homer-api/api/.htaccessa 빼먹지 말고 꼭 apache의 root로 넣기 ㅠㅠ
 - 나머지는 하면됨.
 
-5) capagent
+5) capagent ::: proxy, lb가 돌고 있는 서버에 설치
 - github 참조  
 
-- init.d script에서 => sudo chkconfig captagent on
-
+//- init.d script에서 => sudo chkconfig captagent on
 
 ** Ubuntu기준으로 작성된 init.d . . . ㅠㅠㅠ**  
 

@@ -1,6 +1,6 @@
 ICE (RFC 5245)
 ==============
-
+Interactive Connectivity Establishment
 - **두 대의 단말이 서로 상대방과 통신하기 위한 최적의 경로를 찾을 수 있도록 도와주는 프레임워크**  
 -	stun과 turn을 활용하여 offer/answer model의 프로토콜에 적용할 수 있다.
 -	ice는 offer/answer 모델에 의해 생성되는 udp 기반 미디어 스트림을 위한 nat traversal기술이다.
