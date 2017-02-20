@@ -30,18 +30,16 @@
 - media gateway, soft switch
 - DTMF
 - TLS
-<<<<<<< HEAD
+
 - CDR (Call Detail Records)  
 - rfc 5863 + session border controller
-- call stateful 
+- call stateful
 
 =======
 - sip trunk ?
 - redirect server  
->>>>>>> a436257459d3ea983775ef942fd4fc96cd6dbaee
 
-
-  꼭 봐야 할 부분들
+꼭 봐야 할 부분들
 =================
 -	RFC3261
 -	sdp
@@ -51,3 +49,20 @@
 -	ch 8,9는 이해하고
 -	ch 9.3은 꼭 보기.
 -	ch10 확실하기 보기.
+
+---
+
+# 공부
+
+
+### Java
+- heap profiler
+- java.lang.ref  
+- weak references  
+- java memory structure (https://www.yourkit.com/docs/kb/sizes.jsp)  
+- java generic
+
+---  
+
+### Spring  
+- Web.xml의 구성 및 기능  

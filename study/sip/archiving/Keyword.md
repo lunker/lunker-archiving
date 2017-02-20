@@ -7,7 +7,7 @@
 - java.lang.ref  
 - weak references  
 - java memory structure (https://www.yourkit.com/docs/kb/sizes.jsp)  
-- java generic 
+- java generic
 
 ---  
 
