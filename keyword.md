@@ -62,6 +62,10 @@
 - java memory structure (https://www.yourkit.com/docs/kb/sizes.jsp)  
 - java generic
 
+### Java 8
+- method reference
+- lambda
+
 ---  
 
 ### Spring  
